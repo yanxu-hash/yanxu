@@ -13,6 +13,8 @@
     └── superagent.md   # 本仓库与 super agent 的约定
 ```
 
+`docs/` 目录用于存放本仓库的说明文档，目前只有 `superagent.md` 一个文件，记录本仓库与 super agent 的协作约定。后续新增的细节说明也统一放在这里，让 README 保持精简。
+
 ## 约定
 
 - 分支：`agent/<ticket>`，由执行器自动创建
